@@ -1,0 +1,10 @@
+:root {
+    --primaria-geral:hsl(215, 51%, 70%);
+    --especifica: hsl(178, 100%, 50%);
+    --fundo-body: hsl(217, 54%, 11%);
+    --fundo-cartao: hsl(216, 50%, 16%);
+    --borda-hr: hsl(215, 32%, 27%);
+    --secundaria: hsl(0, 0%, 100%);
+    --cor-do-link: hsl(228, 45%, 44%);
+    --sombra-cartao: hsl(217, 60%, 9%);
+}
